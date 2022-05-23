@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natalia
-- 👀 I’m interested in sustainable development and ecology, teaching portuguese, and surfing
-- 🌱 I’m currently learning python, css, java script and html
+- 👀 I’m interested in sustainable development, marketing&comm, teaching portuguese, web3 and surfing
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ... have no idea yet!
 - 📫 How to reach me https://www.instagram.com/nataliadias.pt/ or nataliadias_pt via telegram
 
